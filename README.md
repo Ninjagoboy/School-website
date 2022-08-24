@@ -1,1 +1,1 @@
-# School-website
+# SchoolWebsite_Template
